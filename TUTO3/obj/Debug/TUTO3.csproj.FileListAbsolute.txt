@@ -1,0 +1,11 @@
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\bin\Debug\TUTO3.exe.config
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\bin\Debug\TUTO3.exe
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\bin\Debug\TUTO3.pdb
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.csproj.AssemblyReference.cache
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.csproj.SuggestedBindingRedirects.cache
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.Form1.resources
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.Properties.Resources.resources
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.csproj.GenerateResource.cache
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.csproj.CoreCompileInputs.cache
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.exe
+C:\Users\azhar damir\Source\Repos\TUTO3\TUTO3\obj\Debug\TUTO3.pdb
